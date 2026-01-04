@@ -20,7 +20,7 @@ apify-client==1.6.4
 
 # Transcription
 faster-whisper==0.10.0
-yt-dlp==2024.1.29
+yt-dlp
 
 # Google Sheets
 google-auth==2.27.0
